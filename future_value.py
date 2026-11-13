@@ -1,3 +1,9 @@
+#Jeffrey Almendarez
+#CMP131
+#WEEK9
+#11/13
+#future_value.py
+
 def futureValue(present , rate , months):
     future = present * (1 + rate) ** months
     return future    #performing our calculations
